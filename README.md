@@ -1,8 +1,8 @@
-# 💫 About Me:
+# 💫 Sobre Mí:
 Estudiante de primer año en el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en Prat Educació. <br>Estoy construyendo bases sólidas en mi primer lenguaje de programación, Java, con el firme objetivo de convertirme en un desarrollador hábil y efectivo.
 
 
-## 🌐 Socials:
+## 🌐 Mis redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cristo.ge) 
 
 # 💻 Tech Stack:
