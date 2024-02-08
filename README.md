@@ -1,5 +1,5 @@
 # 💫 Sobre Mí:
-Estudiante de primer año en el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en Prat Educació. <br>Estoy construyendo bases sólidas en mi primer lenguaje de programación, Java, con el firme objetivo de convertirme en un desarrollador hábil y efectivo.
+Estudiante de primer año en el Ciclo Formativo de Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) en <br>Prat Educació. <br>Estoy construyendo bases sólidas en mi primer lenguaje de programación, Java, con el firme objetivo de convertirme en un desarrollador hábil y efectivo.
 
 
 ## 🌐 Mis redes:
