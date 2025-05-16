@@ -1,5 +1,5 @@
-# 💫 Sobre Mí:
-<br>Soy un programador en desarrollo continuo, perfeccionando mis habilidades en TypeScript. Trabajo con React en el frontend y Fastify en el backend, con el objetivo de crear aplicaciones web efectivas y de alto rendimiento.<br>
+# 💫 About Me:
+<br>I am a continuously evolving developer, refining my skills in TypeScript. I work with React on the frontend and NestJS on the backend, and I enjoy creating web apps that work well and feel good to use.<br>
 
 ---
 # 📊 GitHub Stats:
